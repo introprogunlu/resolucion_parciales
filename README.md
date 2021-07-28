@@ -1,2 +1,2 @@
-# resolucion_parciales
-Este repositorio cuenta con la resolución se los parciales vistos en clase
+# Resolucion Parciales
+Este repositorio cuenta con la resolución se los parciales vistos en la cursada
