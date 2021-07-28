@@ -125,9 +125,7 @@ def censo_mails(cantidad_encuestas):
     for i in range(cantidad_encuestas):
         # Ingreso los datos
         encuestado_edad = int(input("Ingrese la edad del encuestado: "))
-        encuestado_emails = int(
-            input("Ingrese la cantidad de emails diarios del encuestado: ")
-        )
+        encuestado_emails = int(input("Ingrese la cantidad de emails diarios del encuestado: "))
 
         # Busco el mayor
         if encuestado_emails > max_emails:
